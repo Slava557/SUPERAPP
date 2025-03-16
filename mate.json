@@ -1,0 +1,8 @@
+{
+    "deploy": {
+      "projectId": 750,
+      "directory": "dist",
+      "token": "3e61bf6a5acfd89a229212edbbc05346243cd467187629242ee08a51d9a2dc25",
+      "tag": "latest"
+    }
+  }
