@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react-swc';
 import mkcert from 'vite-plugin-mkcert';
 
 export default defineConfig({
-  base: 'https://392bfdc9ea.tapps.global/latest', // Убедитесь, что здесь указан правильный base URL
+  base: 'https://slava557.github.io/SUPERAPP/', // Убедитесь, что здесь указан правильный base URL
   plugins: [
     react(),
     tsconfigPaths(),
